@@ -1,4 +1,4 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm <a href="imagens/matrix.svg">Punit!</a>🧑🏻‍💻</h2>
+<h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm <a href="![matrix](https://user-images.githubusercontent.com/92674627/195725212-97d3c53e-cfff-4e45-b408-537e223d94b8.svg)">Punit!</a>🧑🏻‍💻</h2>
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
@@ -93,5 +93,5 @@ These are my latest posts on [Medium](https://medium.com/@punitkmr), [My blog](h
 <!--<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
 
 ![ so cool!](https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg )
+![snake](https://user-images.githubusercontent.com/92674627/195725159-4a68131a-195d-4762-ac38-b2336939d2bd.svg)
 
-<h2 align='center'><a href="imagens/snake.svg">Punit!</a>🧑🏻‍💻</h2>
