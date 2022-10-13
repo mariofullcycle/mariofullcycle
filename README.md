@@ -1,4 +1,4 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm <a href="matrix.svg">Punit!</a>🧑🏻‍💻</h2>
+<h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm <a href="imagens/matrix.svg">Punit!</a>🧑🏻‍💻</h2>
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
@@ -94,4 +94,4 @@ These are my latest posts on [Medium](https://medium.com/@punitkmr), [My blog](h
 
 ![ so cool!](https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg )
 
-<h2 align='center'><a href="snake.svg">Punit!</a>🧑🏻‍💻</h2>
+<h2 align='center'><a href="imagens/snake.svg">Punit!</a>🧑🏻‍💻</h2>
