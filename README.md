@@ -1,4 +1,5 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm <a href="![matrix](https://user-images.githubusercontent.com/92674627/195725212-97d3c53e-cfff-4e45-b408-537e223d94b8.svg)">Punit!</a>🧑🏻‍💻</h2>
+![matrix](https://user-images.githubusercontent.com/92674627/195725263-a4a6a7a8-2367-4db9-93ed-fa46f785b12e.svg)
+
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
