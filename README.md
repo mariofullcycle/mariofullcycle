@@ -1,97 +1,74 @@
 ![matrix](https://user-images.githubusercontent.com/92674627/195725263-a4a6a7a8-2367-4db9-93ed-fa46f785b12e.svg)
 
-
-<p align="center">
-  <samp> I'm a Avid learner, tinkerer and educator on Data science, Web developement and alumini from University Visvesvaraya College of Engineering (UVCE) Bangalore, IND. I love what I do and I aspire to create new ways to understand and design, experiences that can help solve problems and communicate both in anesthetic and functional sense. And Love sharing my knowledge, insights of learning with others through Blogging and other source. Some of the technologies I enjoy working with Python, including Data science tools  packages, NodeJS, ReactJS, other JS frameworks and UI/UX.
-  </samp>
-  <br>
-  
-</p>
+Matrix SVG
+Hello there, I'm Sumanth 👋
+"Talk is cheap. Show me the code"
+visitors
 
 
-
-<h3  align='center'>📬 Find me around the web 🌎 </h3>
-
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=punitkmryh.punitkmryh"></a>
-</p>
+Facebook  Instagram  LinkedIn  Gmail 
 
 
-<p align='center'>
-  <a href="https://pkharsoor.me"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/pkmryh_kata"><img src="https://img.shields.io/badge/HackerRank%20-%23339903.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/punityh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/pkmr"><img src="https://img.shields.io/badge/freecodecamp-%2312100E.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:punitkmryh95@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+GIF
 
+I am a grad student at ASU
+🔭 I’m currently working on my Portfolio Website 😁
+🌱 I’m currently learning Data Visualization.
+👯 I’m looking to collaborate with other Developers 😉
+🥅 2022 Goals: Contribute to Open Source projects
+💬 Ask me about anything, I am happy to help 😄
+📬 How to reach me: Let's get in touch!
+🧗 I try to: Go beyond and push the bounds
+⚡ Fun fact: I love connecting with different people 🙌
 
-<hr>
-<h3 align='center'> 🔭  I’m currently working and learning with ...</h4>
+Languages and Tools:
+JavaScript
 
+HTML5
 
-<h4 align='center'> Data analystics and Data science and Others</h5>
-<p align='center'>
-  <img src="https://img.shields.io/badge/datascience%20-%23e34f26.svg?&style=for-the-badge&logo=Datascience&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PowerBI%20-%23e34f26.svg?&style=for-the-badge&logo=PowerBI&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tableau%20-%23e34f26.svg?&style=for-the-badge&logo=Tableau&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python3%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MachineLearning%20-%23e34f26.svg?&style=for-the-badge&logo=MachineLearning&logoColor=white" />&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
-  
-<hr>
+HTML5
 
-<h3 align='center'> 🌱  I have worked...</h4>
-<br>
-<p align='center'>
-  <img  src="https://img.shields.io/badge/Vue%20-%23339903.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/4728035c35302af7a472eba8858f41efb4e2d02b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e642d6373732532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" />&nbsp;&nbsp;
-</p>
-</p>
+Visual Studio Code
 
-<hr>
-<h3 align='center'  >💬  Sometimes I like to write things here...</h4>
-<br>
-<p align='center' align='right'>
-  <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/punitkmryh_93"><img src="https://img.shields.io/badge/DEV.io-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://punitharsoor.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+HTML5
 
+CSS3
 
-## 📝 Latest Blog Posts
-These are my latest posts on [Medium](https://medium.com/@punitkmr), [My blog](https://punitharsoor.hashnode.dev) and [Dev.to](https://dev.to/punitkmryh_93):
-### 📔 My Blog Post
-<!-- MY-BLOG:START -->
-- [A Beginner’s Guide to Convolution NeuNet (CNN)](https://punitharsoor.hashnode.dev/a-beginners-guide-to-convolution-neunet-cnn-ckea7q6cn00j9wks1bacog0ci)
-- [Join operator of Node.js Mongoose](https://punitharsoor.hashnode.dev/join-operator-of-nodejs-mongoose-cke6r6xjz00nhxms1frgj6jav)
-- [Getting Started With ReactJS+Babel+webpack](https://punitharsoor.hashnode.dev/getting-started-with-reactjsbabelwebpack-cke1i678a00r1vls1eury1hmy)
-- [VueJS Essential CheatSheet](https://punitharsoor.hashnode.dev/vuejs-essential-cheatsheet-ckdhkuye90099yvs1eeyn6wik)
-<!-- MY-BLOG:END -->
+Sass
 
-<hr>
+HTML5
 
-### 📓 Latest Medium Posts
-<!-- MEDIUM:START -->
-- [HackerRanak : Nested Lists](https://medium.com/@punitkmr/hackerranak-nested-lists-3160f9a943df?source=rss-59bf5649cfb3------2)
-- [Join operator of Node.js Mongoose](https://medium.com/gist-for-js/implementing-node-js-mongooses-model-populate-method-45233806724f?source=rss-59bf5649cfb3------2)
-- [Login Middlewares for API Authentication](https://medium.com/weekly-webtips/login-middlewares-for-api-authentication-5bc3032a2f9e?source=rss-59bf5649cfb3------2)
-- [Imperativeness of Mongoose Middleware aka Pre/Post-hooks in API’s Authentication](https://medium.com/swlh/need-of-mongoose-middleware-in-authentication-3ddc70a993f?source=rss-59bf5649cfb3------2)
-- [Handling Validation Errors in Node.js](https://medium.com/weekly-webtips/handling-validation-errors-in-node-js-67df90082bdc?source=rss-59bf5649cfb3------2)
-<!-- MEDIUM:END -->
+React
 
-<hr>
+Node.js
 
+MongoDB
 
-[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punitkmryh)](https://github.com/punitkmryh)
+SQL
+
+MySQL
+
+Git
+
+HTML5
+
+HTML5
 
 
 
-<!--<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
 
+
+⚡ Github Stats
+Sumanth's Github Stats
+
+Sumanth's Top Languages
+
+⚡ Recent Github Activity
+💪 Opened PR #9495 in education/GitHubGraduation-2021
+💪 Opened PR #1 in t-satwik/Python-programs
+🗣 Commented on #143 in dwyl/start-here
+
+Show some  ❤️  by starring some of the repositories!
 ![ so cool!](https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg )
 ![snake](https://user-images.githubusercontent.com/92674627/195725159-4a68131a-195d-4762-ac38-b2336939d2bd.svg)
 
